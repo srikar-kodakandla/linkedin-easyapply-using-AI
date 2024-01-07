@@ -1,5 +1,7 @@
 # AI-Driven LinkedIn Job Application Bot 🤖
 
+![AI Robot Applying to Jobs](https://github.com/srikar-kodakandla/linkedin-easyapply-using-AI/blob/main/image.png)
+
 ## Overview
 
 This project leverages AI, specifically GPT models, to automate job applications on LinkedIn. It intelligently applies to jobs with the "Easy Apply" option and auto-fills application forms behalf of you.
