@@ -1,9 +1,9 @@
 demjson3==3.0.6
 gpt4_openai_api==0.9.0
 protobuf==4.25.1
-pyTelegramBotAPI==4.14.0
 pyTelegramBotAPI==4.14.1
 Requests==2.31.0
 selenium==4.16.0
 undetected_chromedriver==3.5.4
 webdriver_manager==4.0.0
+
