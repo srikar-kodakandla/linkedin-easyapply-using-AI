@@ -42,6 +42,10 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - Gemini might be a better option if ChatGPT is slow, though currently, GPT-3.5 and GPT-4 seems more accurate in answering questions in this task than Gemini. But if you find Gemini is performing well for you, please free to use it.
 - This project uses Undetected-Chromedriver to keep the bot hidden and prevent it from being blocked.
 
+## 🌟 If You Like the Project, Please Star it!
+
+If you find this AI-driven job application bot helpful or interesting, please consider giving it a star on GitHub. Your support helps to increase the visibility of the project and encourages future developments and improvements. Just click on the star icon at the top of the page – it means a lot!
+
 ## License
 
 This project is licensed under the [Apache License](LICENSE).
