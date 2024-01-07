@@ -41,12 +41,24 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - The project uses the ChatGPT web UI for response extraction, offering a cost-effective solution.
 - Choose GPT-4 if you are subscribed to ChatGPT Plus else choose GPT-3.5.
 - Gemini might be a better option if ChatGPT is slow, though currently, GPT-3.5 and GPT-4 seems more accurate in answering questions in this task than Gemini. But if you find Gemini is performing well for you, please free to use it.
-
+- This project uses Undetected-Chromedriver to keep the bot hidden and prevent it from being blocked.
+- 
 Happy job hunting! 🎯
+
+### Important Warning ⚠️
+
+LinkedIn may block your account if it detects automation tools being used without permission. This has happened to me several times. To mitigate this risk, the code includes sleep intervals and uses an undetected-chromedriver, aiming to reduce the chances of detection by LinkedIn. However, please be aware that LinkedIn might still detect and permanently block your account. **I am not responsible for any account suspensions or bans that may occur as a result of using this tool.**
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [Apache License](LICENSE.md).
 
+### Important Warning ⚠️
+
+LinkedIn may block your account if it detects automation tools being used without permission. This has happened to me several times. To mitigate this risk, the code includes sleep intervals and uses an undetected-chromedriver, aiming to reduce the chances of detection by LinkedIn. However, please be aware that LinkedIn might still detect and permanently block your account. **I am not responsible for any account suspensions or bans that may occur as a result of using this tool.**
+
+---
+
+Use this tool wisely and at your own risk. Happy job hunting! 🎯🤖
 
 *Disclaimer: This project is not affiliated with LinkedIn or OpenAI. Use responsibly and adhere to LinkedIn's terms of service.*
