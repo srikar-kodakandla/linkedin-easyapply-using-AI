@@ -25,7 +25,7 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - `locations`: List of preferred job locations.
 - `remote`: Set to `true` or `false`. If true, the bot searches for remote jobs.
 - `hybrid`: Set to `true` or `false`. If true, the bot searches for hybrid jobs. If both `remote` and `hybrid` are true, it searches for both types. If both are false, it considers all job types (onsite, remote, hybrid).
-- `telegram_token_id`: Your Telegram bot token for receiving updates on job applications and filled forms.
+- `telegram_token_id`: Your Telegram bot token for receiving updates on job applications and filled forms. [To know how get the telegram bot token id and chatid from here]([https://www.youtube.com/watch?v=aNmRNjME6mE](https://www.youtube.com/watch?v=pqcU979MlcE))
 - `telegram_chat_id`: Your Telegram chat ID for receiving updates.
 - `token_cookie_chatgpt`: ChatGPT cookie token. To obtain, visit [ChatGPT](https://chat.openai.com), press F12 for developer tools, find the `__Secure-next-auth.session-token` cookie, and copy its value.
 - `headless_mode_chatgpt`: Set to `true` or `false`. If true, runs ChatGPT UI browser in headless mode. Currently, set it to false due to a known bug.
