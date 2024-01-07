@@ -1,9 +1,11 @@
 # AI-Driven LinkedIn Job Application Bot 🤖
 
+---
 ## Overview
 
 This project leverages AI, specifically GPT models, to automate job applications on LinkedIn. It intelligently applies to jobs with the "Easy Apply" option and auto-fills application forms behalf of you.
 
+---
 ## Getting Started
 
 Before diving into the project, you'll need to create two essential files with the provided template:
@@ -13,7 +15,7 @@ Before diving into the project, you'll need to create two essential files with t
 
 Refer to the example files in this project for guidance on creating your own. As a Machine Learning Engineer, I have crafted both the JSON and Text files specifically for applying to Machine Learning roles, aligning closely with my preferences. Feel free to use these as templates to adapt for other roles.
 
-
+---
 ### 🗂 JSON File Configuration
 
 The JSON file is crucial for tailoring the application process to your preferences. Below is the explanation of each key:
@@ -35,6 +37,7 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - `chatgpt_timeout`: Time in seconds (default 120) to wait before retrying a request in case of an error with ChatGPT response extraction.
 - `GPT_backend_selection`: Choose between "chatgpt" and "gemini". Use "chatgpt" for ChatGPT token or "gemini" for Gemini API key.
 
+---
 ### 🚀 Quick Tips:
 
 
@@ -45,20 +48,22 @@ The JSON file is crucial for tailoring the application process to your preferenc
 - 
 Happy job hunting! 🎯
 
-### Important Warning ⚠️
-
-LinkedIn may block your account if it detects automation tools being used without permission. This has happened to me several times. To mitigate this risk, the code includes sleep intervals and uses an undetected-chromedriver, aiming to reduce the chances of detection by LinkedIn. However, please be aware that LinkedIn might still detect and permanently block your account. **I am not responsible for any account suspensions or bans that may occur as a result of using this tool.**
-
-## License
-
-This project is licensed under the [Apache License](LICENSE.md).
-
+---
 ### Important Warning ⚠️
 
 LinkedIn may block your account if it detects automation tools being used without permission. This has happened to me several times. To mitigate this risk, the code includes sleep intervals and uses an undetected-chromedriver, aiming to reduce the chances of detection by LinkedIn. However, please be aware that LinkedIn might still detect and permanently block your account. **I am not responsible for any account suspensions or bans that may occur as a result of using this tool.**
 
 ---
+## License
+
+This project is licensed under the [Apache License](LICENSE).
+
+---
+### Important Warning ⚠️
+
+LinkedIn may block your account if it detects automation tools being used without permission. This has happened to me several times. To mitigate this risk, the code includes sleep intervals and uses an undetected-chromedriver, aiming to reduce the chances of detection by LinkedIn. However, please be aware that LinkedIn might still detect and permanently block your account. **I am not responsible for any account suspensions or bans that may occur as a result of using this tool.**
 
 Use this tool wisely and at your own risk. Happy job hunting! 🎯🤖
 
+---
 *Disclaimer: This project is not affiliated with LinkedIn or OpenAI. Use responsibly and adhere to LinkedIn's terms of service.*
