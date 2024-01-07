@@ -1,0 +1,20 @@
+
+{
+"username" : "kodakandlasrikar99@gmail.com",
+"password":"somepassword of your linkedin",
+"roles1":["Generative","Natural Language Processing","Natural language processing","applied","scientist","research","researcher","ML","Model","Modeling","Data Scientist","Machine learning enginner","Deep learning enginner","Computer vision enginner","AI engineer","Deep learning","Data science","DS","Ml enginner","Computer vision","ML","Machine learning","Computer vision","Deep learning","DL","AI","Artificial Intelligence","NLP","chatbot","LLM","ChatGPT","GPT-3","GPT-2","BERT","Transformer","BERT","BERT"],
+"not_roles1":["must reside in the US","Trainer","train","Trainer","trainer","intern","Intern","Internship","internship","Internship","Traineeship","Trainee"],
+"keywords" : [ "Machine Learning Researcher","Natural Language processing Engineer","Computer vision engineer","Artificial Intelligence Researcher","Artificial Intelligence Engineer","Deep learning Engineer","Machine learning consultant","Machine learning Engineer","AI researcher","Data scientist","NLP Engineer","Data science","Deep learning","Computer vision","ML Engineer"],
+"locations":["Worldwide"],
+"remote" : true,
+"hybrid": false,
+"telegram_token_id" : "681342390:AAGoAayGasdfasHdsfcutgC-XVUsfasddffsdf",
+"telegram_chat_id" : -103542364430871,
+"token_cookie_chatgpt" :"Give chatgpt cokkie token here. ",
+"headless_mode_chatgpt": false,
+"model_name" : "gpt-4",
+"gemini_api_key" : "give gemini api key here, if you wanted to use only ChatGPT then no need to mention the gemini api key here. ",
+"chatgpt_timeout" : 120, 
+"GPT_backend_selection" : "chatgpt"
+}
+

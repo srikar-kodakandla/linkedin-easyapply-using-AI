@@ -1,0 +1,95 @@
+# Srikar Kodakandla
+**Gender:** Male
+**Race/Ethnicity:** Asian
+**Veteran:** I am not a protected Veteran
+**Disability:** I Don't Have A Disability, Or A History/Record Of Having A Disability
+**City: ** Rajahmundry, Andhra Pradesh, India
+**Street address: ** Sainagar,Morampudi
+**District:** East Godavari
+**Pincode:** 533101
+**State:** Andhra Pradesh
+**Country:** India
+**Email:** kodakandlasrikar99@gmail.com  
+**Phone:** +91 9176462946  
+**LinkedIn:** https://www.linkedin.com/in/srikar-kodakandla/
+**GitHub:** https://github.com/srikar-kodakandla
+## ABOUT ME
+- Deep understanding of machine learning and deep learning algorithms, avoiding the perception of them as black boxes, with a clear understanding of the inner mathematics.
+- Experienced in end-to-end development in a startup environment, solving problems solo, from data preprocessing and ML modeling to deploying solutions on GCP.
+- Data Scientist/Machine Learning Engineer known for making complex problems seem easy by developing custom techniques, deep learning architectures, and posing the problem perfectly with constraints for ML algorithms to learn patterns in the data easily.
+- Keen on staying updated with the latest advancements in deep learning, particularly in Generative AI, through daily research on new techniques and architectures.
+- Also interested in the stock market and making money by trading using Machine learning.
+- Also have experience in solving time series problems using deep learning and classical ML algorithms.
+## WORK EXPERIENCE
+### Machine Learning Engineer  
+**IDfy | Bengaluru, Karnataka**  
+*Oct 2022 - Present (Started at CrimeCheck.ai and later acquired by IDfy)*
+- **Disposition Extraction:**
+  - Task: Find and extract the current status or final outcome of the case from the court record.
+  - Developed a custom deep learning architecture with problem-specific constraints, achieving a 0.91 F1 score across all Indian court records.
+  - Successfully handled end-to-end processes, including preprocessing, modeling, and deployment on GCP.
+- **Legal Chatbot and Sales Chatbot:**
+  - Created Legalbot using fine-tuned open source GPT model (OpenHermes-2.5-Mistral-7B) to answer legal questions related to Indian acts and their sections.
+  - Salesbot designed to handle questions related to CrimCheck sales and products.
+  - Managed end-to-end processes, including preprocessing, modeling, and deployment on GCP. Legalbot is currently used by HDFC Bank client in real-time.
+- **Petitioner and Respondent Extraction:**
+  - Task: Extract names, ages, and addresses of both petitioners and respondents from all Indian court records.
+  - Employed a custom architecture surpassing Named Entity Recognition (NER) in performance while being computationally efficient.
+  - Achieved superior results at a lower computational cost for over 25 crore court records.
+  - Successfully managed end-to-end processes, including preprocessing, modeling, and deployment on GCP TPU.
+- **Rebuilt Crime Search:**
+  - Rebuilt the core crime search algorithm using a custom BERT-like architecture.
+  - Fine-tuned architecture on extracted Petitioner and respondent information for relevant address ranking.
+  - Project is currently in the testing phase.
+- **FIR Information Extraction:**
+  - Developed an end-to-end information extraction pipeline for Indian FIR documents using ChatGPT API.
+  - Extracted data used to train a custom NER model for identifying key entities in FIR with high precision.
+### Machine Learning Engineer Intern  
+**SkyGoal | Vijayawada, India**  
+*Jul 2021 - Oct 2021*
+- Built a chatbot for exams and result-related information, adapting to daily changes in data for efficiency.
+- Used KD tree (similar to KNN) on a small dataset for question-answer similarity, deploying the model on AWS.
+- The chatbot is live on WhatsApp, Telegram, Facebook messenger, and SkyGoal Education website.
+## ACCOMPLISHMENTS
+- Picasso of Tech award for 2023 at IDfy: Recognized for achieving state-of-the-art results in every NLP problem worked on.
+- 2nd Prize winner - Bigghack Hackathon organized by IDfy, May 2023: Tackled a complex video analytics computer vision problem using deep learning in 36 hours.
+## PERSONAL PROJECTS
+- **Implemented Machine learning techniques from scratch:**
+  - Various implementations such as Logistic Regression using SGD with L2 Regularization, Backpropagation with different optimizers, Calibration with regularization, Bootstrap using Decision trees, Recommendation systems, Truncated SVD SGD algorithm, Performance metrics, RandomSearchCV with K fold, TFIDF vectorizer, etc.
+- **Linkedin Job Apply using AI:**
+  - Developed a system using Mistral Mixture of Experts GPT LLM to automatically apply for jobs based on job details and personal needs.
+  - The system can answer questions during the job application process on behalf of the user.
+- **Email Document Classification using CNN:**
+  - Built a model to classify emails into 20 different categories using 1D CNN.
+- **Other Interesting Projects:**
+  - Nifty Options Trading Bot, Attendance in Google meet classes on autopilot.
+## CERTIFICATIONS
+- Applied Machine Learning (March 2023) 
+- Google Cloud Fundamentals: Core Infrastructure 
+- Practical Machine learning with Tensorflow-Swayam (offered by Google and IIT Madras)
+- Programming, Data structures and Algorithms using Python - Swayam
+## EDUCATION
+**Bachelor of Engineering (B.E) - Computer Science Engineering**  
+*SCSVMV, Kanchipuram (India)*  
+*July 2018 - July 2022*  
+*CGPA: 9.36*
+## SKILLS
+- **Programming & Databases:** Python, MySQL
+- **Cloud Platforms:** GCP, AWS
+- **Key Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, Pytorch, PySpark, Flask, Selenium, NumPy, Pandas, NLTK, Matplotlib, Seaborn, regex, streamlit, huggingface, selenium.
+- **Mathematical Foundations:** Calculus, Linear Algebra, Probability, Statistics.
+- **Machine Learning & Data Science:** Proficient in ML, Computer Vision, NLP, Deep Learning, Data Analysis, Visualization, and Web-Scraping, Linux, Git, Docker.
+- **Computer Science Fundamentals:** Data Structures, Algorithms
+## Additional Details
+- I have end-to-end skills like model deployment, modeling, and every stage in ML and data science.
+- I have work experience of around 2 years (1 year 4 months in IDfy and 4 months at skygoal company) in ML and ML related things like NLP, Computer vision, LLM (Large Language Models),RAG (retrieval augmented generation), Transformers, Huggingface, BERT, GPT,Vertex AI, GCP, AWS,git,docker,sql and more. 
+- i have knowledge of all ML and deep learning algorithms. 
+- I have real-world experience of deploying models into GCP and several other cloud platforms.
+- I am currently earning 9 Lakhs per annum.
+- I have around 2 years of experience in ML Engineering related roles.
+- I am open to relocation and expect around 14 Lakhs (14,00,000 INR) per annum.
+- I am open to both remote work and relocation.
+- I have a notice period of less than 28 days (1 month).
+- I am proficient in English and my native language is Telugu.
+- I graduated with a B.E in Computer Science in 2022 with CGPA of 9.37. 
+- I have several certifications from different organizations on Machine Learning, Python, Deep Learning from IIT Madras and other reputed certification providers.
